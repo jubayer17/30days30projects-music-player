@@ -10,9 +10,9 @@ Play, pause, skip tracks, and enjoy a smooth UI – all in one lightweight app.
 - Progress bar with seek control
 - Responsive design
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-[Demo Link](#) _(Add your link here)_
+[Demo Link](#) _(Add your link here)_ -->
 
 ## 🛠️ Tech Stack
 
